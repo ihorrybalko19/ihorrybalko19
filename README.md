@@ -1,16 +1,53 @@
-## Hi there 👋
+<img width="827" height="451" alt="Снимок экрана 2026-02-18 200536" src="https://github.com/user-attachments/assets/c9b3a9a3-4ba3-4ba8-ac28-8f269b9e547a" /># Hi there, I'm Ihor! 👋 
 
-<!--
-**ihorrybalko19/ihorrybalko19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineering Student** with a focus on **Project Management** and building efficient team workflows. I bridge the gap between clean code and organized processes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+
+* **Languages:** C#, JavaScript (learning React & TypeScript)
+* **Web:** HTML5, CSS3, Component-based development
+* **Management:** Agile (Scrum/XP), Jira, Trello
+* **Hardware/IoT:** Robotics mentor, experience with Lego First & Arduino basics
+
+---
+
+### 🚀 Team Projects & Experience
+
+* **Project Management & Leadership:**
+    * Curated **2 university-level projects** from documentation to delivery.
+    * Implemented **Scrum-inspired workflows**, managing tasks, backlogs, and team syncs.
+    
+* **AI-Driven Communication Tool (Telegram-like):**
+    * A collaborative project featuring **AI Summarization** for chat history.
+    * Implemented **Quick Reply AI**, offering three context-aware response options for messages.
+    
+* **Social Platform (Instagram-like):**
+    * Worked in a team to build a media-sharing application.
+
+---
+
+### 🎓 Mentorship & Education
+
+* **Robotics Mentor:** Preparing young students for **First Lego League**. Helping them master logic, engineering, and teamwork through robotics.
+* **Continuous Learner:** Currently deepening my knowledge in **.NET** and **Modern Frontend (React)** to better understand the full development lifecycle.
+
+---
+
+### 🤝 Engineering Values
+
+I believe that a successful project is built on three pillars:
+1.  **Trust:** Creating an environment where every team member feels supported.
+2.  **Professionalism:** A commitment to quality, even in the smallest tasks.
+3.  **Iterative Growth:** Using Agile to deliver value early and refine it constantly.
+
+---
+
+### 🧩 Beyond the Code
+
+* **Chess:**
+* **Nature Photography:**
+* **Productivity:**
+
+---
