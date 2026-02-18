@@ -10,16 +10,16 @@ I am a **Software Engineering Student** with a focus on **Project Management** a
 * **Management:** Agile (Scrum/XP), Jira, Trello
 * **Hardware/IoT:** Robotics mentor, experience with Lego First & Arduino basics
 
-### 🚀 Team Projects & Experience
+### 🚀 **Team Projects** & Experience
 
 * **Project Management & Leadership:**
-    * Curated **2 university-level projects** from documentation to delivery.
+    * Curated **2 university-level projects**:
     
-* **AI-Driven Communication Tool (Telegram-like):**
+ **1) AI-Driven Communication Tool (Telegram-like):**
     * A collaborative project featuring **AI Summarization** for chat history.
     * Implemented **Quick Reply AI**, offering three context-aware response options for messages.
     
-* **Social Platform (Instagram-like):**
+ **2) Social Platform (Instagram-like):**
     * Worked in a team to build a media-sharing application.
 
 ### 🎓 Mentorship & Education
@@ -31,9 +31,9 @@ I am a **Software Engineering Student** with a focus on **Project Management** a
 ### 🤝 Engineering Values
 
 I believe that a successful project is built on three pillars:
-1)  **Trust:**
-2)  **Professionalism:**
-3)  **Iterative Growth:**
+1)  **Trust**
+2)  **Professionalism**
+3)  **Iterative Growth**
 
 ### 🧩 Beyond the Code
 
