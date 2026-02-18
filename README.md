@@ -1,4 +1,4 @@
-<img width="827" height="451" alt="Снимок экрана 2026-02-18 200536" src="https://github.com/user-attachments/assets/c9b3a9a3-4ba3-4ba8-ac28-8f269b9e547a" /># Hi there, I'm Ihor! 👋 
+# Hi there, I'm Ihor! 👋 
 
 I am a **Software Engineering Student** with a focus on **Project Management** and building efficient team workflows. I bridge the gap between clean code and organized processes.
 
