@@ -5,10 +5,12 @@ I am a **Software Engineering Student** with a focus on **Project Management** a
 
 ### 🛠️ Technical Toolkit
 
-* **Languages:** C#, JavaScript (learning React & TypeScript)
-* **Web:** HTML5, CSS3, Component-based development
-* **Management:** Agile (Scrum/XP), Jira, Trello
-* **Hardware/IoT:** Robotics mentor, experience with Lego First & Arduino basics
+* **Languages:** C#, JavaScript (learning React & TypeScript), C++.
+* **Databases & API:** SQL Server (SSMS), Swagger.
+* **Version Control:** Git (committing, branching, merging).
+* **Web:** HTML5, CSS3, Component-based development (React basics).
+* **Management:** Agile (Scrum/XP), Jira, Trello, Sprint & Task management.
+* **Hardware/IoT:** Robotics mentor (First Lego League), Arduino basics.
 
 ### 🚀 **Team Projects** & Experience
 
