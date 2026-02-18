@@ -12,8 +12,7 @@ I am a **Software Engineering Student** with a focus on **Project Management** a
 
 ### 🚀 **Team Projects** & Experience
 
-* **Project Management & Leadership:**
-    * Curated **2 university-level projects**:
+Curated **2 university-level projects**:
     
  **1) AI-Driven Communication Tool (Telegram-like):**
     * A collaborative project featuring **AI Summarization** for chat history.
