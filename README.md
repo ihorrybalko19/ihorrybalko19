@@ -14,7 +14,6 @@ I am a **Software Engineering Student** with a focus on **Project Management** a
 
 * **Project Management & Leadership:**
     * Curated **2 university-level projects** from documentation to delivery.
-    * Implemented **Scrum-inspired workflows**, managing tasks, backlogs, and team syncs.
     
 * **AI-Driven Communication Tool (Telegram-like):**
     * A collaborative project featuring **AI Summarization** for chat history.
@@ -32,9 +31,9 @@ I am a **Software Engineering Student** with a focus on **Project Management** a
 ### 🤝 Engineering Values
 
 I believe that a successful project is built on three pillars:
-1.  **Trust:** Creating an environment where every team member feels supported.
-2.  **Professionalism:** A commitment to quality, even in the smallest tasks.
-3.  **Iterative Growth:** Using Agile to deliver value early and refine it constantly.
+1)  **Trust:**
+2)  **Professionalism:**
+3)  **Iterative Growth:**
 
 ### 🧩 Beyond the Code
 
